@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="61" viewBox="0 0 176 61">
+  <g id="HO_TEN_ANH" data-name="HO TEN &amp; ANH" transform="translate(-428 -251)">
+    <rect id="ANH" width="62" height="61" rx="2" transform="translate(428 251)" fill="#272625" opacity="0.88"/>
+    <text id="Ho_va_Ten" data-name="Ho va Ten" transform="translate(517 280)" fill="#272625" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Ho va Ten</tspan></text>
+    <text id="Cai_dat_ca_nhan" data-name="Cai dat ca nhan" transform="translate(528 292)" fill="#272625" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Cai dat ca nhan</tspan></text>
+  </g>
+</svg>
